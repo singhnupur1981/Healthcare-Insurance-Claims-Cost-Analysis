@@ -1,0 +1,201 @@
+Patient_ID,Age,Gender,Region,Smoker,BMI,Chronic_Disease,Claim_Amount,Approved_Amount,Diagnosis,Claim_Status
+P0001,56,Female,West,No,26.5,Yes,3550.34,2317.28,Flu,Approved
+P0002,69,Male,West,No,21.8,No,6910.63,6153.17,Flu,Rejected
+P0003,46,Male,Northeast,No,24.2,Yes,2168.15,2010.12,Injury,Approved
+P0004,32,Female,Southeast,Yes,21.0,No,8457.04,5796.49,Injury,Rejected
+P0005,60,Male,West,No,36.8,Yes,2310.29,1853.64,Flu,Rejected
+P0006,25,Male,Southeast,Yes,27.2,Yes,8670.32,8117.86,Injury,Rejected
+P0007,78,Male,Southeast,No,23.5,Yes,2361.86,2109.43,Cancer,Rejected
+P0008,38,Male,Midwest,No,28.1,No,2657.42,2170.83,Diabetes,Approved
+P0009,56,Female,Northeast,No,26.4,No,1354.76,1132.77,Cancer,Approved
+P0010,75,Female,West,No,25.9,Yes,1717.93,1380.09,Flu,Approved
+P0011,36,Female,Midwest,No,30.1,No,3244.58,2332.92,Flu,Approved
+P0012,40,Female,Midwest,No,30.8,No,3975.38,3283.7,Cancer,Approved
+P0013,28,Female,West,Yes,24.3,No,6575.49,5757.2,Injury,Approved
+P0014,28,Male,Southeast,No,24.1,No,2810.78,2668.36,Injury,Pending
+P0015,41,Female,Midwest,No,25.6,No,4421.41,3778.17,Flu,Approved
+P0016,70,Female,Southeast,No,15.5,No,3781.85,3420.49,Heart Disease,Rejected
+P0017,53,Female,Northeast,No,19.4,Yes,4773.36,3169.65,Injury,Approved
+P0018,57,Female,Southeast,No,33.8,Yes,1942.95,1524.48,Cancer,Rejected
+P0019,41,Male,Northeast,Yes,35.2,No,2141.69,1293.01,Injury,Pending
+P0020,20,Male,Southeast,No,25.8,No,1943.59,1357.93,Cancer,Approved
+P0021,39,Male,Midwest,Yes,29.9,No,7442.32,6628.02,Flu,Approved
+P0022,70,Male,Midwest,No,28.6,No,8510.74,8482.86,Injury,Rejected
+P0023,19,Female,Northeast,No,42.4,No,2066.17,1321.67,Cancer,Approved
+P0024,41,Female,West,No,32.6,No,2101.14,1598.12,Flu,Approved
+P0025,61,Male,Northeast,No,26.4,Yes,5249.17,4829.39,Heart Disease,Approved
+P0026,47,Female,Northeast,Yes,22.2,Yes,9138.13,6228.68,Cancer,Approved
+P0027,55,Male,Southeast,Yes,19.0,No,10452.72,8592.49,Heart Disease,Approved
+P0028,19,Male,Southeast,No,28.0,No,1988.26,1775.97,Heart Disease,Approved
+P0029,77,Male,Northeast,No,23.2,Yes,2429.16,2056.03,Diabetes,Approved
+P0030,38,Male,Midwest,Yes,19.9,Yes,4127.25,2786.76,Injury,Approved
+P0031,50,Female,Southeast,Yes,23.8,Yes,4273.62,3171.68,Cancer,Pending
+P0032,29,Male,West,No,21.6,No,2897.01,2646.47,Heart Disease,Approved
+P0033,75,Female,Southeast,Yes,35.4,Yes,1667.8,1370.42,Diabetes,Pending
+P0034,39,Female,Southeast,No,31.4,Yes,3248.53,1955.91,Flu,Approved
+P0035,78,Male,West,No,27.0,No,10445.42,9446.8,Cancer,Approved
+P0036,61,Female,Northeast,Yes,34.4,Yes,2167.52,1331.13,Heart Disease,Approved
+P0037,42,Female,West,Yes,27.4,No,3945.18,3543.93,Injury,Approved
+P0038,66,Male,Northeast,No,22.7,Yes,15040.58,10242.52,Diabetes,Approved
+P0039,44,Female,Northeast,No,34.6,Yes,2141.93,2106.01,Heart Disease,Approved
+P0040,76,Male,Northeast,No,29.7,Yes,5422.15,4051.3,Injury,Approved
+P0041,59,Male,West,No,21.8,No,10736.42,7845.88,Heart Disease,Approved
+P0042,45,Male,Northeast,No,26.0,No,5102.8,3365.58,Cancer,Approved
+P0043,77,Female,Midwest,No,22.6,No,7093.67,5123.34,Cancer,Approved
+P0044,33,Female,West,No,20.1,No,5932.3,5639.6,Cancer,Approved
+P0045,32,Male,Midwest,No,31.6,No,4822.15,4815.08,Diabetes,Rejected
+P0046,79,Male,Northeast,Yes,36.5,Yes,8327.13,6223.06,Cancer,Approved
+P0047,79,Female,Southeast,No,20.0,No,5304.51,4134.57,Injury,Approved
+P0048,64,Male,Northeast,No,29.8,No,2920.19,2595.55,Heart Disease,Pending
+P0049,79,Male,Midwest,No,23.7,Yes,3726.68,3557.04,Flu,Approved
+P0050,68,Female,Midwest,No,24.6,Yes,4378.73,3665.95,Injury,Approved
+P0051,61,Female,West,Yes,24.0,Yes,2417.39,1829.02,Injury,Pending
+P0052,72,Male,Southeast,No,22.7,Yes,3851.5,2946.59,Cancer,Approved
+P0053,69,Female,West,Yes,27.2,Yes,3454.68,3034.06,Diabetes,Approved
+P0054,74,Female,Midwest,No,22.8,No,5293.16,3182.71,Heart Disease,Approved
+P0055,20,Male,Northeast,Yes,28.4,No,12619.46,10699.23,Diabetes,Approved
+P0056,54,Female,Southeast,Yes,26.7,No,4019.59,2983.33,Heart Disease,Approved
+P0057,68,Male,Northeast,Yes,25.8,No,9290.43,8525.63,Heart Disease,Approved
+P0058,24,Female,Northeast,No,22.5,No,5162.16,3289.31,Diabetes,Approved
+P0059,38,Female,Southeast,No,24.1,No,3838.74,3206.43,Injury,Approved
+P0060,26,Female,West,No,30.8,No,2308.41,1829.16,Heart Disease,Pending
+P0061,56,Male,Northeast,No,29.5,No,3860.01,3307.76,Diabetes,Rejected
+P0062,35,Female,Midwest,No,22.1,No,3688.58,2308.84,Heart Disease,Approved
+P0063,21,Male,Northeast,Yes,27.5,No,1832.72,1524.81,Flu,Approved
+P0064,42,Male,Southeast,No,30.8,No,2088.45,1722.12,Injury,Approved
+P0065,77,Male,Southeast,Yes,18.7,No,4405.23,3631.07,Cancer,Approved
+P0066,31,Female,Southeast,No,29.7,No,9229.56,7765.71,Heart Disease,Approved
+P0067,67,Female,West,Yes,23.7,No,3166.43,2756.65,Flu,Approved
+P0068,75,Male,Northeast,No,29.9,No,818.2,754.38,Cancer,Rejected
+P0069,26,Female,West,Yes,23.2,No,1330.69,942.03,Cancer,Approved
+P0070,43,Male,West,No,18.0,Yes,5517.21,5131.11,Heart Disease,Approved
+P0071,70,Female,Southeast,No,18.9,No,999.97,799.28,Diabetes,Approved
+P0072,19,Male,Southeast,No,27.2,No,6131.57,3867.94,Heart Disease,Approved
+P0073,37,Female,West,Yes,28.3,No,5309.76,3310.21,Flu,Rejected
+P0074,45,Male,Northeast,No,22.5,No,3083.76,2262.54,Cancer,Rejected
+P0075,64,Female,Midwest,No,30.2,No,1846.99,1688.07,Heart Disease,Rejected
+P0076,77,Male,West,No,18.7,Yes,2748.46,2427.09,Diabetes,Approved
+P0077,24,Male,Northeast,No,26.7,No,4327.47,3961.57,Heart Disease,Approved
+P0078,61,Male,Southeast,No,20.9,No,1033.63,834.04,Injury,Approved
+P0079,78,Female,Southeast,No,23.7,No,8623.43,6692.47,Diabetes,Approved
+P0080,25,Female,Northeast,No,27.2,No,4298.86,2832.87,Flu,Approved
+P0081,64,Male,Midwest,No,22.7,Yes,4657.21,3405.71,Cancer,Rejected
+P0082,52,Female,Southeast,No,25.1,No,5283.47,4087.33,Heart Disease,Approved
+P0083,31,Female,Southeast,Yes,32.0,No,8077.69,5132.89,Diabetes,Approved
+P0084,34,Female,Southeast,Yes,24.1,No,3866.93,2661.39,Injury,Approved
+P0085,53,Female,Northeast,No,31.2,Yes,5519.55,4632.5,Diabetes,Approved
+P0086,67,Male,West,No,21.4,No,1874.14,1675.98,Injury,Approved
+P0087,57,Male,Southeast,No,29.6,Yes,10480.75,10473.82,Flu,Pending
+P0088,21,Female,West,No,34.2,No,3675.16,3576.83,Cancer,Rejected
+P0089,19,Female,Midwest,Yes,14.6,Yes,1865.96,1599.18,Flu,Pending
+P0090,79,Female,Southeast,Yes,23.0,No,2308.92,1774.4,Heart Disease,Approved
+P0091,23,Male,Southeast,No,29.9,No,447.71,382.56,Diabetes,Approved
+P0092,71,Male,Midwest,No,26.0,No,2296.56,2099.65,Injury,Approved
+P0093,59,Female,Southeast,No,28.9,No,174.6,113.02,Injury,Approved
+P0094,21,Female,West,Yes,24.0,No,5801.76,4432.32,Diabetes,Rejected
+P0095,71,Female,Northeast,No,27.4,Yes,4556.95,4264.94,Diabetes,Approved
+P0096,46,Female,West,No,26.2,Yes,1408.09,1061.04,Heart Disease,Approved
+P0097,35,Female,Northeast,No,32.8,Yes,3211.65,2661.65,Flu,Approved
+P0098,43,Male,Northeast,No,28.3,No,3324.04,2775.93,Injury,Approved
+P0099,61,Male,West,No,28.7,No,1147.81,773.38,Heart Disease,Rejected
+P0100,51,Female,West,No,24.9,No,2794.74,2081.79,Flu,Approved
+P0101,27,Female,West,No,24.6,No,3403.24,2497.31,Heart Disease,Approved
+P0102,79,Male,West,Yes,24.8,No,2734.99,1669.65,Injury,Approved
+P0103,53,Male,Midwest,No,29.0,Yes,1864.33,1136.64,Diabetes,Approved
+P0104,31,Female,Southeast,No,24.9,No,1358.33,1266.89,Diabetes,Rejected
+P0105,48,Male,Northeast,No,28.4,No,2658.94,1885.8,Flu,Rejected
+P0106,65,Male,West,No,37.4,No,2065.36,1667.22,Cancer,Pending
+P0107,32,Female,West,No,31.4,No,5041.07,3627.0,Flu,Rejected
+P0108,25,Female,West,No,25.4,Yes,8409.14,8209.61,Cancer,Approved
+P0109,31,Female,Midwest,No,33.0,Yes,6336.05,4458.8,Heart Disease,Approved
+P0110,40,Male,West,No,25.0,No,3489.68,2693.55,Heart Disease,Approved
+P0111,77,Female,West,Yes,16.8,Yes,1926.43,1828.36,Injury,Approved
+P0112,74,Male,West,Yes,22.0,No,6220.12,5826.84,Cancer,Rejected
+P0113,79,Male,Southeast,No,17.6,Yes,5257.01,3545.54,Injury,Approved
+P0114,57,Female,Midwest,No,25.2,No,8023.03,7389.67,Diabetes,Pending
+P0115,38,Female,West,No,27.1,No,3870.01,3031.28,Cancer,Approved
+P0116,33,Female,Northeast,Yes,35.4,No,10124.79,8030.86,Flu,Approved
+P0117,62,Female,Northeast,No,28.6,No,3870.89,2529.21,Diabetes,Approved
+P0118,35,Female,Northeast,No,25.9,No,1918.42,1212.9,Diabetes,Rejected
+P0119,64,Male,Midwest,No,31.1,No,2233.54,1990.48,Flu,Approved
+P0120,70,Male,Midwest,No,15.9,No,4873.73,3892.09,Diabetes,Approved
+P0121,41,Male,Northeast,No,28.2,No,2060.63,1596.45,Cancer,Approved
+P0122,43,Male,West,No,30.9,No,10079.25,8988.71,Injury,Approved
+P0123,42,Female,Midwest,No,19.6,No,4591.6,4160.93,Diabetes,Approved
+P0124,77,Male,Northeast,Yes,32.7,Yes,3432.42,2277.63,Cancer,Rejected
+P0125,77,Female,Northeast,Yes,28.7,Yes,3652.96,3083.43,Heart Disease,Approved
+P0126,77,Female,West,No,24.9,No,2711.97,1774.01,Cancer,Approved
+P0127,62,Female,Southeast,No,30.2,No,614.63,553.51,Injury,Approved
+P0128,58,Female,Midwest,No,38.4,Yes,2234.92,1928.25,Cancer,Approved
+P0129,46,Female,West,No,27.9,No,9272.71,9111.79,Flu,Rejected
+P0130,32,Female,Northeast,No,28.2,No,3947.1,2477.13,Injury,Approved
+P0131,62,Male,Northeast,No,24.7,No,6833.75,4256.21,Heart Disease,Approved
+P0132,18,Female,West,No,22.8,No,6966.19,4966.02,Flu,Approved
+P0133,42,Male,Midwest,No,31.2,Yes,3234.89,2279.57,Cancer,Pending
+P0134,24,Male,Southeast,Yes,22.7,Yes,5317.23,3715.64,Injury,Rejected
+P0135,26,Female,Southeast,No,27.4,No,695.01,668.95,Heart Disease,Approved
+P0136,41,Male,Northeast,Yes,24.6,No,8783.9,6147.14,Flu,Approved
+P0137,18,Female,Midwest,No,29.4,No,8317.3,5895.13,Heart Disease,Approved
+P0138,61,Female,Southeast,No,28.7,No,4778.54,4318.65,Cancer,Rejected
+P0139,25,Female,Midwest,Yes,32.2,Yes,4052.71,3160.69,Heart Disease,Approved
+P0140,41,Male,Midwest,No,24.4,No,3267.79,2975.92,Diabetes,Approved
+P0141,28,Male,Northeast,No,25.7,No,7370.71,4615.14,Flu,Approved
+P0142,68,Female,Southeast,No,22.1,No,5749.23,4570.8,Heart Disease,Approved
+P0143,34,Male,West,Yes,24.8,No,2482.36,1522.79,Cancer,Approved
+P0144,25,Female,Northeast,No,28.9,No,1197.59,748.57,Cancer,Rejected
+P0145,52,Female,Southeast,No,30.8,No,983.43,946.63,Heart Disease,Approved
+P0146,52,Female,Southeast,No,22.4,Yes,7318.67,4798.84,Cancer,Approved
+P0147,50,Male,Southeast,No,31.3,No,3213.65,2612.6,Injury,Approved
+P0148,76,Male,Southeast,No,33.8,Yes,4722.99,3610.43,Injury,Pending
+P0149,22,Female,Southeast,No,29.1,No,3535.65,2612.62,Injury,Approved
+P0150,59,Male,Midwest,No,36.4,No,996.87,956.93,Diabetes,Rejected
+P0151,56,Male,Northeast,No,23.1,Yes,713.15,434.12,Heart Disease,Approved
+P0152,75,Female,Midwest,No,20.8,No,2345.63,2030.18,Diabetes,Approved
+P0153,58,Female,West,Yes,18.1,No,2511.72,2474.94,Cancer,Approved
+P0154,45,Female,Southeast,Yes,34.5,No,2510.43,2068.76,Diabetes,Approved
+P0155,24,Female,Northeast,No,30.3,No,2569.93,2504.99,Cancer,Approved
+P0156,26,Male,Southeast,No,26.7,No,12084.65,7503.4,Cancer,Rejected
+P0157,25,Female,Northeast,No,28.4,No,6763.92,5191.43,Flu,Approved
+P0158,29,Female,Midwest,Yes,21.4,No,3988.68,2808.28,Injury,Approved
+P0159,51,Male,Northeast,Yes,39.2,Yes,3151.86,2812.49,Cancer,Approved
+P0160,50,Female,West,Yes,27.6,No,3238.15,3213.92,Flu,Pending
+P0161,65,Female,West,No,27.5,Yes,5605.41,3938.43,Injury,Rejected
+P0162,72,Female,Northeast,No,30.6,No,3129.24,2696.37,Cancer,Approved
+P0163,40,Female,Northeast,No,29.4,No,6303.2,4281.38,Cancer,Pending
+P0164,79,Female,Northeast,No,28.1,Yes,4310.39,3560.95,Diabetes,Approved
+P0165,41,Male,Northeast,No,23.0,No,12155.63,9549.13,Diabetes,Approved
+P0166,54,Male,West,No,29.4,No,2985.75,2952.32,Injury,Rejected
+P0167,52,Female,Southeast,No,36.4,Yes,7091.45,5981.01,Cancer,Rejected
+P0168,61,Female,Northeast,No,33.7,No,1304.72,965.24,Heart Disease,Approved
+P0169,57,Female,Northeast,No,35.0,No,1968.24,1270.77,Diabetes,Approved
+P0170,39,Female,West,No,24.4,Yes,11120.02,7344.76,Injury,Approved
+P0171,44,Female,West,No,22.1,No,6122.31,4225.17,Cancer,Pending
+P0172,52,Female,Midwest,No,26.4,No,4783.97,3350.63,Cancer,Approved
+P0173,18,Female,Northeast,Yes,27.3,No,14186.44,13338.75,Heart Disease,Approved
+P0174,52,Female,Midwest,No,32.5,No,3186.76,2627.45,Injury,Approved
+P0175,54,Female,West,No,18.5,No,7080.11,5730.33,Cancer,Approved
+P0176,64,Female,West,Yes,34.6,No,7433.56,4801.39,Diabetes,Approved
+P0177,31,Female,Southeast,No,26.2,No,9579.63,9043.71,Heart Disease,Pending
+P0178,20,Male,Northeast,No,24.9,No,1163.12,1034.16,Injury,Approved
+P0179,18,Male,Midwest,No,21.9,No,3170.46,1988.09,Heart Disease,Approved
+P0180,22,Male,West,No,18.7,No,4256.29,3758.87,Diabetes,Approved
+P0181,43,Female,West,No,31.1,Yes,9477.07,7746.7,Injury,Rejected
+P0182,72,Male,Midwest,Yes,27.4,No,4646.84,2940.01,Heart Disease,Approved
+P0183,31,Male,Southeast,Yes,20.6,Yes,7444.32,5831.29,Flu,Approved
+P0184,56,Female,West,Yes,20.5,Yes,1062.19,843.25,Diabetes,Rejected
+P0185,44,Male,Northeast,Yes,25.3,Yes,2622.55,1747.43,Diabetes,Rejected
+P0186,26,Female,West,Yes,35.3,No,8296.5,8116.29,Diabetes,Rejected
+P0187,32,Male,Northeast,Yes,25.7,No,2906.14,2731.74,Flu,Pending
+P0188,32,Male,Midwest,No,19.5,No,3373.72,2927.07,Flu,Approved
+P0189,43,Female,Northeast,Yes,25.8,Yes,9377.9,7360.88,Cancer,Rejected
+P0190,59,Male,Midwest,No,25.6,No,1589.86,1215.78,Heart Disease,Approved
+P0191,77,Male,Northeast,No,13.5,No,1940.75,1669.8,Cancer,Rejected
+P0192,30,Female,Midwest,No,26.7,No,951.28,778.31,Heart Disease,Rejected
+P0193,68,Female,Northeast,No,25.8,No,9624.5,6014.44,Flu,Rejected
+P0194,49,Male,Southeast,Yes,30.5,No,6679.57,5377.06,Flu,Approved
+P0195,56,Female,Northeast,Yes,36.2,No,6565.11,6056.72,Cancer,Approved
+P0196,66,Male,Northeast,Yes,32.6,No,2563.0,2008.61,Injury,Approved
+P0197,69,Male,Southeast,Yes,25.7,Yes,878.8,545.54,Cancer,Pending
+P0198,78,Female,West,Yes,21.5,Yes,634.23,580.01,Heart Disease,Pending
+P0199,49,Female,West,Yes,39.9,No,8337.18,5673.83,Cancer,Approved
+P0200,21,Female,Northeast,Yes,27.3,Yes,5011.62,3525.42,Diabetes,Approved
