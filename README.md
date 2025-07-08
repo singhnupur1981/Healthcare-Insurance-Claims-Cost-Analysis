@@ -7,7 +7,7 @@ A data analysis project exploring healthcare insurance claim patterns using **Py
 
 ## 📌 Project Objective
 
-To analyze a healthcare insurance dataset and draw insights about claim amounts, patient demographics, chronic illness impact, and regional differences using data visualization and statistical analysis.
+Analyzing a healthcare insurance dataset and then drawing insights for the claim amounts, patient demographics, chronic illness impact and regional differences using data visualization and statistical analysis.
 
 ---
 
@@ -17,12 +17,12 @@ The dataset contains synthetic records of 200 patients and includes:
 
 | Column Name        | Description                            |
 |--------------------|----------------------------------------|
-| `Patient_ID`       | Unique identifier for each patient     |
+| `Patient_ID`       | A unique identifier for each patient     |
 | `Age`              | Age of the patient                     |
-| `Gender`           | Male / Female                          |
+| `Gender`           | Gender either Male / Female                          |
 | `Region`           | Region of residence (4 regions)        |
 | `Smoker`           | Whether the patient smokes             |
-| `BMI`              | Body Mass Index                        |
+| `BMI`              | Body Mass Index of the patient                       |
 | `Chronic_Disease`  | Indicates chronic illness (Yes/No)     |
 | `Claim_Amount`     | Insurance claim amount                 |
 | `Approved_Amount`  | Final approved insurance amount        |
