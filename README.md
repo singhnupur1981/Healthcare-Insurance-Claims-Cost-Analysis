@@ -1,7 +1,7 @@
 
 # 🩺 Healthcare Insurance Data Analysis
 
-A data analysis project exploring healthcare insurance claim patterns using **Python**, **Pandas**, and **Matplotlib**.
+A data analysis project exploring healthcare insurance claim patterns using Python, Pandas and Matplotlib.
 
 ---
 
@@ -35,22 +35,22 @@ The dataset contains synthetic records of 200 patients and includes:
 
 This project includes the following visual analyses:
 
-1. **Boxplot** – Claim amount distribution by region  
-2. **Bar Chart** – Total claim amount by smoker vs non-smoker  
-3. **Scatter Plot** – Age vs claim amount, colored by chronic disease  
-4. **Histogram** – Distribution of claim amounts  
-5. **Pie Chart** – Gender proportion in the dataset  
-6. **Line Plot** – Average claim amount by age group
+1. Boxplot – This shows the claim amount distribution by region  
+2. Bar Chart – This shows the total claim amount by smoker vs non-smoker  
+3. Scatter Plot – This shows the Age vs claim amount, colored by chronic disease  
+4. Histogram – This shows the distribution of claim amounts  
+5. Pie Chart – This shows the gender proportion in the dataset  
+6. Line Plot – This shows the average claim amount by age group
 
 ---
 
 ## 🧠 Key Insights
 
-- **Smokers** had higher total claim amounts than non-smokers.
-- Patients with **chronic diseases** filed more expensive claims.
-- **Older adults (60+)** tend to have larger claims.
-- **Midwest and Southeast** regions showed greater claim variability.
-- Claims were **right-skewed** — few patients drive most of the cost.
+- Smokers had higher total claim amounts than non-smokers.
+- Patients with chronic diseases filed more expensive claims.
+- Older adults (60+) tend to have larger claims.
+- Midwest and Southeast regions showed greater claim variability.
+- Claims were showing as they were right-skewed — few patients drive most of the cost.
 
 ---
 
@@ -72,25 +72,6 @@ This project includes the following visual analyses:
 ├── insurance_analysis.ipynb
 └── README.md
 ```
-
----
-
-## 🚀 Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/healthcare-insurance-analysis.git
-   ```
-2. Install required libraries:
-   ```bash
-   pip install pandas matplotlib
-   ```
-3. Open the Jupyter Notebook:
-   ```bash
-   jupyter notebook insurance_analysis.ipynb
-   ```
-
----
 
 ## 📬 Contact
 
