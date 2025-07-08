@@ -94,5 +94,5 @@ This project includes the following visual analyses:
 
 ## 📬 Contact
 
-Made with ❤️ by **Nupur Singh**  
-[Your LinkedIn](https://linkedin.com/in/yourname) | [Your Portfolio](https://yourportfolio.com)
+Made by **Nupur Singh**  
+
